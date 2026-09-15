@@ -18,10 +18,10 @@ An SQL Server project analyzing aerospace supply chain data, including supplier 
 * Which orders have missing quantities?
 * Which part families have the most quality defects?
 
-Dataset: Aerospace Supply Chain Performance & Forecasting
-Source: Kaggle, Roberto Carlos TIENTCHEU
-License: MIT
-Data: Synthetic aerospace supply-chain data
+**Dataset:** Aerospace Supply Chain Performance & Forecasting  
+**Source:** Kaggle, Roberto Carlos TIENTCHEU  
+**License:** MIT  
+**Data:** Synthetic aerospace supply-chain data
 
 ├── Data/
 │   ├── [purchase_orders.csv](https://github.com/user-attachments/files/32220462/purchase_orders.csv)
